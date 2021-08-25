@@ -1,5 +1,32 @@
-- *NOTE:* *BEFORE* completing steps below, *BE CAREFUL* when doing so!
-- *BE SURE* to compare file contents of *your* existing directories--if you have any--**BEFORE** overwriting. 
-- Change *all* student_files directories to proper assignment name: For example, a1_student_files becomes a1.
-- **Important!** context.xml (in META-INF) has changed since the videos were created. See comments in file.
-- Lastly, include **your** main lis4368 README.md file here--do *NOT* create one on your remote Bitbucket site!
+> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
+
+# LIS4369 - Extensible Enterprise Solutions
+
+## Rachel Hester
+
+### LIS4369 Requirements:
+
+*Course Work Links:*
+
+1. [a1 README.md](a1/README.md "My a1 README.md file")
+   
+
+2. [a2 README.md](a2/README.md "My a2 README.md file")
+	
+
+3. [a3 README.md](a3/README.md "My a3 README.md file")
+    
+
+4. [a4 README.md](a4/README.md "My a4 README.md file")
+    
+
+5. [a5 README.md](a5/README.md "My a5 README.md file")
+  
+
+6. [p1 README.md](p1/README.md "My p1 README.md file")
+    
+
+7. [p2 README.md](p2/README.md "My p2 README.md file")
+   
+
+
