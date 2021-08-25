@@ -26,7 +26,7 @@
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short descriptions:
+#### Git commands w/short descriptions:
 
 1. git init - creates new Git repository
 2. git status - displays the state of the working directory and the staging area
