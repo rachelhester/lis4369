@@ -9,6 +9,17 @@
 *Course Work Links:*
 
 1. [a1 README.md](a1/README.md "My a1 README.md file")
+    - Screenshotof a1_tip_calculator application running using IDLE (see below);
+    - Screenshotof a1_tip_calculator application running using Visual Studio Code (see below);
+    - Upload A1 .ipynbfile andcreate link in README.md;
+        * Note: *Before* uploading .ipynbfile, 
+        * be sure * to do the following actions from Kernal menu: 
+            a.Restart & Clear Output
+            b.Restart & Run All  
+    - git commands w/short descriptions(“Lesson 3b -Version Control Systems: Course Configuration”;
+    - Bitbucket repo links: 
+            a.This assignment, and 
+            b.The completed tutorial repoabove (bitbucketstationlocations) .(See link in screenshot below.)
    
 
 2. [a2 README.md](a2/README.md "My a2 README.md file")

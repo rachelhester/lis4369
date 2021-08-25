@@ -22,6 +22,7 @@
 4. git commands w/short descriptions(“Lesson 3b -Version Control Systems: Course Configuration”;
 5. Bitbucket repo links: a.This assignment, and 
     b.The completed tutorial repoabove (bitbucketstationlocations) .(See link in screenshot below.)
+    
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
