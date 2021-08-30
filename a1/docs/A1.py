@@ -2,8 +2,8 @@
 
 #Program Requirements
 #Author: Rachel Hester
-#Class: LIS4905: Enterprise Application Solutions
-#Semester: Summer 2021
+#Class: LIS4369: Extensible Enterprise Solutions
+#Semester: Fall 2021
 
 print("Tip Calculator")
 
