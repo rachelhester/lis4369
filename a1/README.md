@@ -39,16 +39,22 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+1. Screenshot of IDLE                                  
+![IDLE Screenshot](img/A1_IDLE.png) 
 
-![AMPPS Installation Screenshot](img/tomcat.png)
+2. Screenshot of VSCode
+![VSCode Screenshot](img/VSCode_A1.png)
 
-*Screenshot of running java Hello*:
+3. 
 
-![JDK Installation Screenshot](img/jdk_install.png)
 
-*Screenshot of running A1 on Tomcat*
-![A1 on Tomcat](img/a1screencap.png)
+*Links to Notebook and Python File Below:* 
+
+1. Link to Python File
+[Python File](docs/A1.py "A1 Python File")
+
+2. Link to Notebook
+[Notebook](docs/A1.ipynb "A1 Jupyter Notebook")
 
 
 
