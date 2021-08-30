@@ -45,8 +45,6 @@
 2. Screenshot of VSCode
 ![VSCode Screenshot](img/VSCode_A1.png)
 
-3. 
-
 
 *Links to Notebook and Python File Below:* 
 
