@@ -45,6 +45,10 @@
 2. Screenshot of VSCode
 ![VSCode Screenshot](img/VSCode_A1.png)
 
+3. Screenshot of Jupyter Notebook
+![Jupyter Notebook Part 1](img/Jupyter_Notebook_1.png)
+![Jupyter Notebook Part 2](img/Jupyter_Notebook_2.png)
+
 
 *Links to Notebook and Python File Below:* 
 
