@@ -11,9 +11,9 @@
 1. Assignment requirements, as per A2.
 2. Screenshots as per examples below.
 3. Upload A2 .ipynbfile andcreate link in README.md;
-Note:*Before* uploading .ipynbfile, *be sure* to do the following actions from Kernal menu:
-    a. Restart & Clear Output
-    b. Restart & Run All
+    Note:*Before* uploading .ipynbfile, *be sure* to do the following actions from Kernal menu:
+     - Restart & Clear Output
+     - Restart & Run All
 
 > This is a blockquote.
 > 

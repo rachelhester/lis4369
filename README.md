@@ -19,10 +19,16 @@
     - git commands w/short descriptions(“Lesson 3b -Version Control Systems: Course Configuration”;
     - Bitbucket repo links: 
             a.This assignment, and 
-            b.The completed tutorial repoabove (bitbucketstationlocations) .(See link in screenshot below.)
+            b.The completed tutorial repo above (bitbucketstationlocations). (See link in screenshot below.)
    
 
 2. [a2 README.md](a2/README.md "My a2 README.md file")
+    - Assignment requirements, as per A2.
+    - Screenshots as per examples below.
+    - Upload A2 .ipynbfile and create link in README.md;
+        - Note: *Before* uploading .ipynbfile, *be sure* to do the following actions from Kernal menu:
+        - Restart & Clear Output
+        - Restart & Run All
 	
 
 3. [a3 README.md](a3/README.md "My a3 README.md file")
