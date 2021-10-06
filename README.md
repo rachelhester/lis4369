@@ -32,6 +32,12 @@
 	
 
 3. [a3 README.md](a3/README.md "My a3 README.md file")
+   - Assignment requirements, as per A3.
+    - Screenshots as per examples below.
+    - Upload A3 .ipynbfile and create link in README.md;
+        - Note: *Before* uploading .ipynbfile, *be sure* to do the following actions from Kernal menu:
+        - Restart & Clear Output
+        - Restart & Run All
     
 
 4. [a4 README.md](a4/README.md "My a4 README.md file")
