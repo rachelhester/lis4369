@@ -41,6 +41,12 @@
     
 
 4. [a4 README.md](a4/README.md "My a4 README.md file")
+    - Assignment requirements, as per A4.
+    - Screenshots as per examples below, including *graph*.
+    - Upload A4 .ipynb file andcreate link in README.md;
+        - Note:*Before* uploading .ipynbfile, *be sure* to do the following actions from Kernal menu:
+        - Restart & Clear Output
+        - Restart & Run All
     
 
 5. [a5 README.md](a5/README.md "My a5 README.md file")
