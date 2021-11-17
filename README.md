@@ -50,6 +50,12 @@
     
 
 5. [a5 README.md](a5/README.md "My a5 README.md file")
+    - Requirements: 
+        - a. Complete the following tutorial: Introduction_to_R_Setup_and_Tutorial (includes A5 requirements): Save as: learn_to_use_r.R 
+        - b. Code and run lis4369_a5.R (see below). Include link to file in a5 README.md file. 
+        - c. Include at least two 4-panel RStudio screenshots : 1) learn_to_use_r.R, and 2) lis4369_a5.R code. 
+        - d. Also, be sure to include at least four plots—that is, at least two plots for the tutorial, and two plots for the assignment file (below), in your README.md file. 
+    - Be sure to test your program using RStudio. 
   
 
 6. [p1 README.md](p1/README.md "My p1 README.md file")
