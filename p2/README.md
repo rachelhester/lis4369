@@ -34,7 +34,7 @@
 
 *Screenshot of Graph 1*:             |  *Screenshot of Graph 2*:
 :-------------------:|:------------------------------:
-![P2 RStudio Graph 1](img/p2_3.png)  |  ![P2 RStudio Graph 2](img/p2_2.png)
+![P2 RStudio Graph 1](img/p2_2.png)  |  ![P2 RStudio Graph 2](img/p2_3.png)
 
 
 *Links to R Files Below:* 

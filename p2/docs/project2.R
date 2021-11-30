@@ -123,10 +123,10 @@ library(ggplot2)
 
 png("plot_disp_and_mpg_1.png")
 qplot(disp, mpg, data=mtcars,
-      main = "Rachel Hester: Displacement vs MPG",
       xlab="Displacement",
       ylab="MPG",
-      colour = cyl)
+      colour = cyl,
+      main = "Rachel Hester: Displacement vs MPG")
 
 
 png("plot_weight_and_mpg.png")
