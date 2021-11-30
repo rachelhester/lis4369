@@ -68,6 +68,11 @@
     
 
 7. [p2 README.md](p2/README.md "My p2 README.md file")
+    - Requirements: 
+    - a. Save as lis4369_p2.R. Include link to file in p2 README.md file. 
+    - b. Include link to lis4369_p2_output.txt file 
+    - c. Include at least one 4-panel RStudio screenshot executing lis4369_p2.R code. 
+    - d. Also, be sure to include at least two plots (*must* include *your* name in plot titles), in your README.md file. See examples below. 
    
 
 
